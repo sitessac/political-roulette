@@ -1,3 +1,7 @@
+Modificações do original:
+
+https://github.com/yuriybash/political-roulette
+
 ### Political Roulette
 
 Code behind [politicalroulette.com](https://politicalroulette.com).
